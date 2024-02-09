@@ -1,6 +1,6 @@
 # SSRF-Links  
 SSRF CactusCon 2024 - Links  
-All links used in the powerpoint)  
+(All links used in the powerpoint)  
 
 #-SSRF playground lab by Benji Trapp:          https://github.com/BenjiTrapp/ssrf-playground  
 #-How to insstall SSRF playground video:     https://www.youtube.com/watch?v=HentGoblXfE&t=20s  
